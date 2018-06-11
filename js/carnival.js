@@ -144,5 +144,5 @@ function le() {
     
 }
 var bgmSrc = "https://nd002723.github.io/carnival/audio/Martin%20Jensen%20-%20Fox%20(Loop%20Remix).mp3";
-var cssHref = "css/high.css";     //设置页面动效css地址
+var cssHref = "https://nd002723.github.io/carnival/css/high.css";     //设置页面动效css地址
 

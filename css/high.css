@@ -156,7 +156,7 @@ body {
 }
 
 @keyframes wobble {
-  0% { transform: translateX(0%); }`
+  0% { transform: translateX(0%); }
   15% { transform: translateX(-15%) rotate(-5deg); }
   30% { transform: translateX(12%) rotate(3deg); }
   45% { transform: translateX(-9%) rotate(-3deg); }
